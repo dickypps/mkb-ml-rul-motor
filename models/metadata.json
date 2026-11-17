@@ -1,0 +1,59 @@
+{
+  "versi": "1.0",
+  "fitur": [
+    "beban_pct",
+    "arus_A",
+    "tegangan_V",
+    "suhu_belitan_C",
+    "getaran_rms_mm_s",
+    "kecepatan_rpm",
+    "arus_per_beban",
+    "getaran_x_suhu",
+    "tipe_motor",
+    "hari_operasi"
+  ],
+  "target": "rul_hari",
+  "batas_data_latih": {
+    "beban_pct": [
+      38.9,
+      110.0
+    ],
+    "arus_A": [
+      4.13,
+      47.24
+    ],
+    "tegangan_V": [
+      363.4,
+      396.0
+    ],
+    "suhu_belitan_C": [
+      39.6,
+      98.85000000000002
+    ],
+    "getaran_rms_mm_s": [
+      1.53,
+      8.01
+    ],
+    "kecepatan_rpm": [
+      1451.0,
+      1485.0
+    ],
+    "hari_operasi": [
+      0.0,
+      528.0
+    ]
+  },
+  "ambang_status": {
+    "segera_ganti_hari": 14,
+    "pesan_sekarang_hari": 45
+  },
+  "metrik_test": {
+    "mae_semua": 48.6551018437586,
+    "mae_rul_le_60": 8.77100238727719
+  },
+  "metrik_baseline_test": {
+    "mae_semua": 54.90430758572153,
+    "mae_rul_le_60": 30.462990122846804
+  },
+  "versi_sklearn": "1.6.1"
+}
