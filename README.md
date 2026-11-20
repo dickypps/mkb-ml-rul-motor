@@ -1,12 +1,11 @@
-# Prediksi Sisa Umur Pakai Motor Induksi · Tim [nama tim]
+# Prediksi Sisa Umur Pakai Motor Induksi · Tim 18
 
 **Kasus:** 03 · Sisa Umur Pakai Motor Induksi (*remaining useful life*) · **Aplikasi:** https://mkb-ml-rul-motor-kvcysaqh7qyl6dki4yev6r.streamlit.app · **Video:** [tautan video]
 
 | Anggota | NIM | Bagian yang dikerjakan |
 |---|---|---|
-| Dicky Pinusa | [NIM] | [misalnya EDA, pembersihan data, model, dan aplikasi] |
-| [nama] | [NIM] | [bagian yang dikerjakan] |
-| [nama] | [NIM] | [bagian yang dikerjakan] |
+| Dicky Pinusa Prima S | 2410015 | EDA, pembersihan data, API, dokumentasi dan laporan|
+| Daffa Jiyadi Santoso | 2405250 | Model, evaluasi, dokumentasi dan laporan|
 
 ## Masalah dan pengguna
 
