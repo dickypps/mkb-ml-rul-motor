@@ -75,13 +75,3 @@ requirements.txt     daftar library
 - Nilai di luar rentang data latih membuat prediksi kurang dapat diandalkan; aplikasi menampilkan peringatan untuk kasus ini dan menolak masukan yang mustahil.
 - Ambang 14 dan 45 hari adalah asumsi berdasarkan waktu pengiriman pada *brief* dan perlu disesuaikan dengan kondisi pabrik.
 
-## Daftar periksa sebelum dikumpulkan
-
-- [ ] Repositori bersifat publik dan setiap anggota memiliki *commit*
-- [ ] *Notebook* dapat dijalankan ulang dari awal sampai akhir tanpa galat
-- [ ] *Baseline* wajib dilaporkan dan dibandingkan
-- [ ] Data *test* hanya dibuka satu kali, di akhir
-- [ ] `models/metadata.json` berisi versi model, fitur masukan, ambang status, dan metrik
-- [ ] Aplikasi dapat dibuka orang lain melalui tautan, termasuk dari ponsel
-- [ ] Aplikasi tidak berhenti mendadak ketika menerima masukan yang tidak wajar
-- [ ] Laporan paling banyak 6 halaman dan video paling lama 5 menit
