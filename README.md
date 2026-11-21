@@ -1,6 +1,6 @@
 # Prediksi Sisa Umur Pakai Motor Induksi · Tim 18
 
-**Kasus:** 03 · Sisa Umur Pakai Motor Induksi (*remaining useful life*) · **Aplikasi:** https://mkb-ml-rul-motor-kvcysaqh7qyl6dki4yev6r.streamlit.app · **Video:** [tautan video]
+**Kasus:** 03 · Sisa Umur Pakai Motor Induksi (*remaining useful life*) · **Aplikasi:** https://mkb-ml-rul-motor-kvcysaqh7qyl6dki4yev6r.streamlit.app · **Video:** https://drive.google.com/drive/folders/1IgYoyeTorniR6fCVPjuGvqUHXS7AJ5J7?usp=sharing
 
 | Anggota | NIM | Bagian yang dikerjakan |
 |---|---|---|
